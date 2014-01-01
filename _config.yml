@@ -6,6 +6,7 @@ markdown: kramdown
 pygments: true
 logo: false
 paginate: 15
+comments: true
 
 # Details for the RSS feed generator
 url:            'dan-silver.github.io'
