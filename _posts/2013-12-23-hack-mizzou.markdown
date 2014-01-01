@@ -27,7 +27,7 @@ In the days before Hack Mizzou we realized that the categories were too specific
 Like I said, this was an experiment to learn how to organize large events. Now that we have some practice, I think we should take Hack Mizzou to the next level by making it weekend long.  More time will allow better apps to be built. Also, this will attract more developers from other schools since too many people declined since one day of hacking wasn't worth the travel time.
 
 ### Team mentors
-Next year we should try to get some hackers to help teams throughout the day.  At [Startup Weekend Columia][startup-weekend], it actually seemed like there were more experienced mentors than participants, which really helped teams finish in time.  To get a similar atmosphere at Hack Mizzou, we could reach out to local software companies or get more developer evangelists to join us.
+Next year we should try to get some hackers to help teams throughout the day.  At [Startup Weekend Columbia][startup-weekend], it actually seemed like there were more experienced mentors than participants, which really helped teams finish in time.  To get a similar atmosphere at Hack Mizzou, we could reach out to local software companies or get more developer evangelists to join us.
 
 
 As always, please let me know if you have any ideas for Hack Mizzou.  No plans have been made about who is planning and leading Hack Mizzou 2014, so there are opportunities to get involved if you're interested.
