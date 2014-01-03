@@ -21,7 +21,7 @@ Here are some statistics to sum up the event.
 Although we're a few months away from planning Hack Mizzou 2014, I'd like to share some of my thoughts on how we can improve the event.
 
 ### Broader app categories
-In the days before Hack Mizzou we realized that the categories were too specific.  Unfortunately, we couldn't change them since teams had already started planning apps for specific categories.  Next year, I'd like to see us adpot the ranking system used at [Hack the Midwest][hack-the-midwest] and [Compute Midwest][compute-midwest].  The categories were "Best In Show", "Most Entertaining" and "Most Technically Challenging" in addition to sponsor API prizes. Their categories allow participants to focus on creating an amazing app first, which can then fall into any category.
+In the days before Hack Mizzou we realized that the categories were too specific.  Unfortunately, we couldn't change them since teams had already started planning apps for specific categories.  Next year, I'd like to see us adopt the ranking system used at [Hack the Midwest][hack-the-midwest] and [Compute Midwest][compute-midwest].  The categories were "Best In Show", "Most Entertaining" and "Most Technically Challenging" in addition to sponsor API prizes. Their categories allow participants to focus on creating an amazing app first, which can then fall into any category.
 
 ### Multi-day event
 Like I said, this was an experiment to learn how to organize large events. Now that we have some practice, I think we should take Hack Mizzou to the next level by making it weekend long.  More time will allow better apps to be built. Also, this will attract more developers from other schools since too many people declined since one day of hacking wasn't worth the travel time.
