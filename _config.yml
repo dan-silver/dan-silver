@@ -13,4 +13,4 @@ url:            'dan-silver.github.io'
 author:         'Dan Silver'
 safe: true
 lsi: false
-source: /home/daniel/Desktop/blog/
+source: .
