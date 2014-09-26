@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Moving forward with Hack Mizzou"
-date:   2014-1-2 10:18:00
+date:   2014-1-3 10:18:00
 categories: Hack Mizzou
 comments: true
 ---
